@@ -1,0 +1,35 @@
+ASSIGNMENT-1 (Python Essentials Batch-6 Day-1)
+
+Python is a programming language founded by Guido Van Rossum in 1991.
+
+1. Developers can learn easily
+2. Involves less code compared to other languages like Java
+3. Utilized by major technologies companies these days
+4. Supports Object oriented concepts
+5. Has huge open source libraries 
+
+Can we downloaded from python.org. But the best option is install Anaconda Navigator on Windows/MacOS machines to get access to Python along with test editors like Jupyter, IDE like Spyder along with all Python Libraries.
+
+
+2. What are Code Environments? Types?
+Code environment is contained environment where we are write code, compile code & see the output
+
+There are 3 types of Code environments
+1. Text Editors 
+2. Full IDE
+3. Noteook environments
+
+Text Editors
+Like Notepad++ (We can write code like *.py, *.php, *.html, *.java). We can open these files types in Notepad++. Plus many other files are supported by Notepad++
+Sublime, Visual Studio code
+
+Full IDE 
+Spyder for Python, Eclipse IDE for Java
+
+Noteook environments - Jupyter
+Very easy to learn
+We can write code and see output next to input
+Supports inline markdown notes, Raw and headings as well
+Can download code written in .py files from Jupyter 
+
+
